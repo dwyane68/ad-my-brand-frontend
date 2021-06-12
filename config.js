@@ -1,3 +1,3 @@
 export const apiBaseURL = process.env.NODE_ENV === 'production'
-    ? 'http://localhost:8080'
+    ? 'https://ad-my-brand-backend.cfdev.tech/find-trucks'
     : 'http://localhost:8080';

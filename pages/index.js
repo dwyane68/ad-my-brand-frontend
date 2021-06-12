@@ -110,7 +110,7 @@ class Home extends Component  {
         </Head>
   
         <main className={styles.main}>
-          <h1 className={styles.title}>
+          <h1 className={styles.title} style={{marginTop: 100}}>
             Drag the map to find trucks!
           </h1>
   
